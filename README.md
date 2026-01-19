@@ -12,4 +12,9 @@ curl -X POST http://localhost:5000/ask \
      -H "Content-Type: application/json" \
      -d '{"input_text": "Quais as vantagens do ZenML?"}'
 
-![Diagrama da RAG](URL_da_imagem)
+<br><br>
+
+![Diagrama da RAG](https://github.com/rodfloripa/Projeto30/blob/main/img.png)
+<p align="center">
+  Fig1. RAG
+</p>
