@@ -6,6 +6,12 @@ Utiliza um banco de dados Redis para salvar perguntas recorrentes e diminuir o u
 
 Para rodar:
 
+crie o .env
+
+OPENAI_API_KEY=sk...
+
+REDIS_HOST=redis
+
 docker-compose up
 
 curl -X POST http://localhost:5000/ask \
