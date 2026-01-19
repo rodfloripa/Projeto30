@@ -1,8 +1,14 @@
 # Projeto30
 
-Uma RAG econômica para empresas que não querem gastar muito com a API da OpenAI.
 
-Utiliza um banco de dados Redis para salvar perguntas recorrentes e diminuir o uso da API.
+<p align="justify">
+  Uma RAG econômica para empresas que não querem gastar muito com a API da OpenAI.
+</p>
+
+
+<p align="justify">
+  Utiliza um banco de dados Redis para salvar perguntas recorrentes e diminuir o uso da API.
+</p>
 
 Para rodar:
 
