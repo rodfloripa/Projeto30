@@ -20,7 +20,7 @@ curl -X POST http://localhost:5000/ask \
 
 <br><br>
 
-![Diagrama da RAG](https://github.com/rodfloripa/Projeto30/blob/main/img.png)
+![Diagrama da RAG](https://github.com/rodfloripa/Projeto30/blob/main/img1.png)
 <p align="center">
   Fig1. RAG
 </p>
